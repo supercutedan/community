@@ -1,0 +1,22 @@
+2022-04-15 10:06:47.057  INFO 12716 --- [restartedMain] c.niuke.community.CommunityApplication   : Starting CommunityApplication using Java 1.8.0_302 on DESKTOP-S4TT8MJ with PID 12716 (F:\community\target\classes started by Administrator in F:\community)
+2022-04-15 10:06:47.058 DEBUG 12716 --- [restartedMain] c.niuke.community.CommunityApplication   : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-15 10:06:47.059  INFO 12716 --- [restartedMain] c.niuke.community.CommunityApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-04-15 10:06:47.400  INFO 12716 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-15 10:06:47.404  INFO 12716 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-15 10:06:47.412  INFO 12716 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 10:06:47.431  INFO 12716 --- [restartedMain] o.a.c.c.C.[.[localhost].[/community]     : Initializing Spring embedded WebApplicationContext
+2022-04-15 10:06:47.431  INFO 12716 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 356 ms
+2022-04-15 10:06:47.433  INFO 7520 --- [main] com.niuke.community.LoggerTests          : Starting LoggerTests using Java 1.8.0_302 on DESKTOP-S4TT8MJ with PID 7520 (started by Administrator in F:\community)
+2022-04-15 10:06:47.434 DEBUG 7520 --- [main] com.niuke.community.LoggerTests          : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-15 10:06:47.434  INFO 7520 --- [main] com.niuke.community.LoggerTests          : No active profile set, falling back to 1 default profile: "default"
+2022-04-15 10:06:47.596  INFO 12716 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-04-15 10:06:47.688  INFO 12716 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-15 10:06:47.704  INFO 12716 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/community'
+2022-04-15 10:06:47.711  INFO 12716 --- [restartedMain] c.niuke.community.CommunityApplication   : Started CommunityApplication in 0.705 seconds (JVM running for 138.956)
+2022-04-15 10:06:47.713  INFO 12716 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-15 10:06:49.263  INFO 7520 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-04-15 10:06:49.589  INFO 7520 --- [main] com.niuke.community.LoggerTests          : Started LoggerTests in 2.592 seconds (JVM running for 3.539)
+2022-04-15 10:06:49.830 DEBUG 7520 --- [main] com.niuke.community.LoggerTests          : debug log
+2022-04-15 10:06:49.830  INFO 7520 --- [main] com.niuke.community.LoggerTests          : info log
+2022-04-15 10:06:49.830  WARN 7520 --- [main] com.niuke.community.LoggerTests          : warn log
+2022-04-15 10:06:49.830 ERROR 7520 --- [main] com.niuke.community.LoggerTests          : error log
